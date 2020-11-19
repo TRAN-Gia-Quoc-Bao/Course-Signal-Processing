@@ -1,2 +1,2 @@
-# Image Processing course: Lab 1
-Topic: Spectral analysis (all in French)
+# Image Processing course: Lab 2
+Topic: Time-frequency representation (all in French)
