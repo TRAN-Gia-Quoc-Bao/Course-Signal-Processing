@@ -12,3 +12,5 @@ Lab 2: Time-frequency representation (all in French)
 Lab 3: Optimal linear Wiener filtering (questions in French, report in English)
 
 Lab 4: Optimal linear Widrow filtering (questions in French, report in English)
+
+![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Automatic-Control/blob/main/logoUGA.png)
