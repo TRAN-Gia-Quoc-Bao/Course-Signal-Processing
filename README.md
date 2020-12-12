@@ -13,4 +13,6 @@ Lab 3: Optimal linear Wiener filtering (questions in French, report in English)
 
 Lab 4: Optimal linear Widrow filtering (questions in French, report in English)
 
+By: Gia Quoc Bao TRAN 
+
 ![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Signal-Processing/blob/main/logoUGA.jpg)
